@@ -1,1 +1,1 @@
-# image.dalapay/photo_2024-10-10_16-26-24__1_-removebg-preview (1).png
+![Image alt](https://github.com/{DalaPay}/{image.dalapay}/raw/{main}/{path}/image.png)
